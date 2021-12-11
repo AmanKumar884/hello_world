@@ -1,2 +1,2 @@
 # hello_world
-Includes importanr algorithms
+Includes important algorithms and programs
